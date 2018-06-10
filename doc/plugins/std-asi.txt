@@ -1,0 +1,14 @@
+*************************************************************************
+	Name: std-asi
+	Version: 0.8
+	Author: LINK/2012 <dma_2012@hotmail.com>
+	Default Priority: 45
+*************************************************************************
+
+Description:
+	The standard asi loader is the standard plugin to load ASI Plugins.
+	Whenever a ASI is incompatible with modloader folder, a error message will show up.
+	
+Usage:
+    Just place the ASI file inside a mod folder.
+
